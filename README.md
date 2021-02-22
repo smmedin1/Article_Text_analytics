@@ -1,1 +1,2 @@
 # Article_Text_analytics
+Conducted an analysis on extracted article data between three articles referncing Gamestop and what has happened within the stock market with R using text analytics techniques such as word frequency analysis, sentiment analysis, n-grams, and correlograms. The results show comparison of those three articles, their similarities and differences as well as the patterns in their the words they use and how similarly/ differently they address the event that occurred.
